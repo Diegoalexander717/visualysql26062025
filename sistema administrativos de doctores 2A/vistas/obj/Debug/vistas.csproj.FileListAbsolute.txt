@@ -1,0 +1,13 @@
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\obj\Debug\vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\obj\Debug\vistas.Formulario.frmdoctor.resources
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\obj\Debug\vistas.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\obj\Debug\vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\obj\Debug\vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\bin\Debug\vistas.exe.config
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\bin\Debug\vistas.exe
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\bin\Debug\vistas.pdb
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\obj\Debug\vistas.csproj.Up2Date
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\obj\Debug\vistas.exe
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\vistas\obj\Debug\vistas.pdb

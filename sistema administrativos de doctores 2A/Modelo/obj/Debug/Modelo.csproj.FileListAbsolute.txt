@@ -1,0 +1,6 @@
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\Modelo\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\Modelo\obj\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\visual y sql\sistema administrativos de doctores 2A\Modelo\obj\Debug\Modelo.pdb
