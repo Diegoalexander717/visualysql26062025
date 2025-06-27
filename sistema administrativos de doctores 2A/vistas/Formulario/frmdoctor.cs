@@ -29,5 +29,33 @@ namespace vistas.Formulario
         {
             MostrarDoctores();
         }
+
+        private void gpbDatosDelDoctor_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+
+            //Creamos el objeto de doctor para mandar la informacion dek formulario por el metodo set
+            doctor doc = new doctor();
+            doc.Nnombre=txtnombre.Text;
+            doc.Apellido=txtapellido.Text;
+            doc.Especialidad=txtespecialidad.Text;
+            doc.Cargo=txtcargo.Text;
+            doc.InsertarDoctores();
+            limpiarCampoRegistrado();
+            MostrarDoctores();
+        }
+
+        private void limpiarCampoRegistrado() {
+            MessageBox.Show("Registro Exitoso");
+            txtnombre.Clear();
+            txtapellido.Clear();
+            txtespecialidad.Clear();
+            txtcargo.Clear();
+        
+        }
     }
 }

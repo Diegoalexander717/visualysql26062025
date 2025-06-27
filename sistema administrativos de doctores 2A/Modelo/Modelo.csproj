@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="conexion\conexionDB.cs" />
-    <Compile Include="entidades\doctor.cs" />
+    <Compile Include="Entidades\Doctor.cs" />
+    <Compile Include="Conexion\conexionDB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

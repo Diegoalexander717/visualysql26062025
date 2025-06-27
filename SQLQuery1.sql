@@ -45,12 +45,13 @@ go
 --insertar datos iniciales en doctores 
 insert into doctores (nombre,apellido,especialidad,cargo)
 values 
-('juan carlos', 'mendoza', 'cardiologia', 'jefe de cardiologia'),
-('maría teresa', 'ramirez', 'pediatria ', 'pediatra senior'),
-('roberto antonio ', 'hernandez', 'neurologia', ' neurologo '),
-('Laura patricia ', 'sanchez', 'ginecologa', ' ginecologa '),
-('roberto antonio ', 'hernandez', 'neurologia', ' neurologo '),
-('roberto antonio ', 'hernandez', 'neurologia', ' neurologo ');
+('juan carlos', 'mendoza', 'cardiología', 'jefe de cardiología'),
+('maría teresa', 'ramírez', 'pediatría', 'pediatra senior'),
+('roberto antonio', 'hernández', 'neurología', 'neurólogo'),
+('laura patricia', 'sánchez', 'ginecología', 'ginecóloga'),
+('carlos eduardo', 'lópez', 'traumatología', 'cirujano ortopédico'),
+('ana isabel', 'rodríguez', 'dermatología', 'dermatóloga'),
+('josé manuel', 'pérez', 'oftalmología', 'oftalmólogo');
 
 go 
 

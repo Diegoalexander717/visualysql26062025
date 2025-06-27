@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\",
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|c:\\users\\estudiante\\desktop\\visual y sql\\sistema administrativos de doctores 2a\\vistas\\formulario\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|solutionrelative:vistas\\formulario\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFED0A91-FF3A-4896-BCAB-50632CC32D86}|Modelo\\Modelo.csproj|c:\\users\\estudiante\\desktop\\visualysql26062025\\sistema administrativos de doctores 2a\\modelo\\entidades\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFED0A91-FF3A-4896-BCAB-50632CC32D86}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\vistas\\formulario\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|solutionrelative:vistas\\formulario\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFED0A91-FF3A-4896-BCAB-50632CC32D86}|Modelo\\Modelo.csproj|C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\modelo\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFED0A91-FF3A-4896-BCAB-50632CC32D86}|Modelo\\Modelo.csproj|c:\\users\\estudiante\\desktop\\visualysql26062025\\sistema administrativos de doctores 2a\\modelo\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFED0A91-FF3A-4896-BCAB-50632CC32D86}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFED0A91-FF3A-4896-BCAB-50632CC32D86}|Modelo\\Modelo.csproj|C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\modelo\\entidades\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFED0A91-FF3A-4896-BCAB-50632CC32D86}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\vistas\\formulario\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|solutionrelative:vistas\\formulario\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|c:\\users\\estudiante\\desktop\\visualysql26062025\\sistema administrativos de doctores 2a\\vistas\\formulario\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1ABBC4F-9177-4979-AEEB-531DB1F91C58}|vistas\\vistas.csproj|solutionrelative:vistas\\formulario\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\vistas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\vistas\\Program.cs",
               "RelativeDocumentMoniker": "vistas\\Program.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\vistas\\Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\vistas\\Program.cs",
               "RelativeToolTip": "vistas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T20:09:39.749Z"
+              "WhenOpened": "2025-06-26T20:09:39.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "frmdoctor.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\vistas\\Formulario\\frmdoctor.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\vistas\\Formulario\\frmdoctor.cs",
               "RelativeDocumentMoniker": "vistas\\Formulario\\frmdoctor.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\vistas\\Formulario\\frmdoctor.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\vistas\\Formulario\\frmdoctor.cs",
               "RelativeToolTip": "vistas\\Formulario\\frmdoctor.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAewB0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T20:58:57.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmdoctor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\vistas\\Formulario\\frmdoctor.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\vistas\\Formulario\\frmdoctor.cs",
               "RelativeDocumentMoniker": "vistas\\Formulario\\frmdoctor.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\vistas\\Formulario\\frmdoctor.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\vistas\\Formulario\\frmdoctor.cs [Dise\u00F1o]",
               "RelativeToolTip": "vistas\\Formulario\\frmdoctor.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T20:11:17.492Z"
+              "WhenOpened": "2025-06-26T20:11:17.492Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "doctor.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\Modelo\\entidades\\doctor.cs",
-              "RelativeDocumentMoniker": "Modelo\\entidades\\doctor.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\Modelo\\entidades\\doctor.cs",
-              "RelativeToolTip": "Modelo\\entidades\\doctor.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T20:07:05.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "conexionDB.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\Modelo\\conexion\\conexionDB.cs",
-              "RelativeDocumentMoniker": "Modelo\\conexion\\conexionDB.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\visual y sql\\sistema administrativos de doctores 2A\\Modelo\\conexion\\conexionDB.cs",
-              "RelativeToolTip": "Modelo\\conexion\\conexionDB.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\Modelo\\Conexion\\conexionDB.cs",
+              "RelativeDocumentMoniker": "Modelo\\Conexion\\conexionDB.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\Modelo\\Conexion\\conexionDB.cs",
+              "RelativeToolTip": "Modelo\\Conexion\\conexionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T20:06:42.737Z"
+              "WhenOpened": "2025-06-26T20:07:05.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\Modelo\\Entidades\\Doctor.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entidades\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\visualysql26062025\\sistema administrativos de doctores 2A\\Modelo\\Entidades\\Doctor.cs",
+              "RelativeToolTip": "Modelo\\Entidades\\Doctor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T20:06:42.737Z",
+              "EditorCaption": ""
             }
           ]
         }
